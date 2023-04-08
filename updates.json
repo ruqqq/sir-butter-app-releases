@@ -4,16 +4,16 @@
   "pub_date": "2023-04-08T00:00:00+0800",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbXNTNG1WNG1ySjhtZGtTUmVmUGw5QldxZ2Q1VVliOVR5ZEI5SEZVTjJVa3JGY3hXbGwwSEdkeXhvMGFhMDFTT0E2M2VkZDY5ZFRNRXVYeGtiK0tmWGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwOTUxMTQ3CWZpbGU6c2lyLWJ1dHRlci1hcHAuYXBwLnRhci5negpValN1NGlsWC9XNzhrUWRwZWtOL25meDJJMVg1ZUtGTEd4QUgyazN0TkV2eXVBdWdUTC9pOHFjbEViYVdiVWg1ZnRZUnUzRnRybDF2R0RTWlY5cDJEQT09Cg==",
+      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.1/sir-butter-app.macos-x64.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbXM3dXNhdFJ3ZVgwZ29XMWtGeFFuMmVCQUphMU0xbWlseU5KbEZHZDA5cENyL20wNVdiR3FiSHkrZGQ5MnhzTjZKTXJPVEVBaWRERm9Bc0grblc4cXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwOTU1MzY3CWZpbGU6c2lyLWJ1dHRlci1hcHAuYXBwLnRhci5negp1RHRWTFRHN1pDQlg5VTVqTW1nWk5uUnB0TzJuTEU5elV0MDJyUGp2MkFpcXJvWlFHbk5FVVJRcExkL09aUU1nN1V3ZGg0Y3RXQ0dDOWNlY2xPV3JDZz09Cg==",
+      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.1/sir-butter-app-macos-arm64.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "",
-      "url": ""
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbWxwNC9xRDZ6NE1LdzJETjllSTR5VFdENHlJNnVGMW9UOHBISGMwaWFodWNkQ2ZKYkZNWkZIZ0E1TFQrUFdHUmhIcHJacjhsaDh6S2tvbXpGa3JmSVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwOTUxMTEwCWZpbGU6c2lyLWJ1dHRlci1hcHBfMC4wLjFfeDY0X2VuLVVTLm1zaS56aXAKajVYcnRXRVA5ZDhHNkVROEsvaEMyNnpGYlNiQWt2NWN3OHo3cW9Ba2g4RHBoZGtFQzZveXIxc1hxaDFSSXU5b2pOZzUwN3dTUnV2b3c5TksvSDlVQmc9PQo=",
+      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.1/sir-butter-app_0.0.1_x64_en-US.msi.zip"
     }
   }
 }
