@@ -1,19 +1,19 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.6",
   "notes": "Pre-release",
-  "pub_date": "2023-04-08T12:30:00Z",
+  "pub_date": "2023-04-09T14:30:00Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbXNTNG1WNG1ySjhtZGtTUmVmUGw5QldxZ2Q1VVliOVR5ZEI5SEZVTjJVa3JGY3hXbGwwSEdkeXhvMGFhMDFTT0E2M2VkZDY5ZFRNRXVYeGtiK0tmWGcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwOTUxMTQ3CWZpbGU6c2lyLWJ1dHRlci1hcHAuYXBwLnRhci5negpValN1NGlsWC9XNzhrUWRwZWtOL25meDJJMVg1ZUtGTEd4QUgyazN0TkV2eXVBdWdUTC9pOHFjbEViYVdiVWg1ZnRZUnUzRnRybDF2R0RTWlY5cDJEQT09Cg==",
-      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.1/sir-butter-app.macos-x64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbXJrL3NYUUZpV2pnMjd2bmM4eWR2UStPR3hoWVVrUjQwelh2K3lrbEtVZEROMHg0L09Vakt4Z3g3S0RZa0d6a2FEK200a1VMaEhnRFhyQXdyb2ZtRlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxMDQ5ODU3CWZpbGU6SW50ZWxsaUNoYXQuYXBwLnRhci5negpBZTd6ejdDTk84MmNpYnowM096L3NYVVc0aTRwNHQ5ekx6TllhN215RXdOWm1COVY2c0daKzVZbDBIMjFGQU9jL1BaMDAya1NrQnhGTG5HYUI0dW5CZz09Cg==",
+      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.6/IntelliChat-macos-x64.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbXM3dXNhdFJ3ZVgwZ29XMWtGeFFuMmVCQUphMU0xbWlseU5KbEZHZDA5cENyL20wNVdiR3FiSHkrZGQ5MnhzTjZKTXJPVEVBaWRERm9Bc0grblc4cXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwOTU1MzY3CWZpbGU6c2lyLWJ1dHRlci1hcHAuYXBwLnRhci5negp1RHRWTFRHN1pDQlg5VTVqTW1nWk5uUnB0TzJuTEU5elV0MDJyUGp2MkFpcXJvWlFHbk5FVVJRcExkL09aUU1nN1V3ZGg0Y3RXQ0dDOWNlY2xPV3JDZz09Cg==",
-      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.1/sir-butter-app-macos-arm64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbW9CK0UyZlBWaCt0UnZMZnNlWEQwT2RCQUphWjB4Si9GL3U0NUxzVlpnbG4rZUJXMkpnVFBnb3ZkVlZsZkwyWUs1VksvSks0U2J0YUFoOGdBNEF6M2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxMDQ5NzY0CWZpbGU6SW50ZWxsaUNoYXQuYXBwLnRhci5negpYbkVCc2pqSjRLYW0xSmJzcWs3WUJvTGN6RWJhUDM0YWNyUk9QcXMzTVJpekZPVVk1OG1EZFFRRjdQaHYxTDVkS1VBK2VIZWpza3lNSzVJWkFERktCdz09Cg==",
+      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.6/IntelliChat-macos-arm64.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbWxwNC9xRDZ6NE1LdzJETjllSTR5VFdENHlJNnVGMW9UOHBISGMwaWFodWNkQ2ZKYkZNWkZIZ0E1TFQrUFdHUmhIcHJacjhsaDh6S2tvbXpGa3JmSVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgwOTUxMTEwCWZpbGU6c2lyLWJ1dHRlci1hcHBfMC4wLjFfeDY0X2VuLVVTLm1zaS56aXAKajVYcnRXRVA5ZDhHNkVROEsvaEMyNnpGYlNiQWt2NWN3OHo3cW9Ba2g4RHBoZGtFQzZveXIxc1hxaDFSSXU5b2pOZzUwN3dTUnV2b3c5TksvSDlVQmc9PQo=",
-      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.1/sir-butter-app_0.0.1_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbWxxZTUxTDBGR2Q5NTN5NEtZTElxckE2cWtWZStCVllMam9Db3I4U3BXM0tKeENGVVRZWjJCcWl2dFZZQk5iMkx1OTRBdGsrdk41eXp5RDdLdDh5bFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxMDUwMzIwCWZpbGU6SW50ZWxsaUNoYXRfMC4wLjZfeDY0X2VuLVVTLm1zaS56aXAKMU1qa3NHWm5TMFNUNENOS3ByTmoxRkpZZVAyTTRYVTUwdGhyektxSTYxcCtIN21vMHpMTytvYjNFTDNNTVBIcm9kcWpMV1FRWmtsUm40ZDJVdFlUQXc9PQo=",
+      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.6/IntelliChat_0.0.6_x64_en-US.msi.zip"
     }
   }
 }
