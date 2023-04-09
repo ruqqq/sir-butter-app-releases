@@ -4,7 +4,7 @@
   "pub_date": "2023-04-09T14:30:00Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbXJrL3NYUUZpV2pnMjd2bmM4eWR2UStPR3hoWVVrUjQwelh2K3lrbEtVZEROMHg0L09Vakt4Z3g3S0RZa0d6a2FEK200a1VMaEhnRFhyQXdyb2ZtRlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxMDQ5ODU3CWZpbGU6SW50ZWxsaUNoYXQuYXBwLnRhci5negpBZTd6ejdDTk84MmNpYnowM096L3NYVVc0aTRwNHQ5ekx6TllhN215RXdOWm1COVY2c0daKzVZbDBIMjFGQU9jL1BaMDAya1NrQnhGTG5HYUI0dW5CZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbWlCUjk2WkFXTXVZU2t3N2xsT0NFQlB0VUs4aHFKNDFZSGxlR0VZblQwWkp3UDRvN0VZYzJZU2xxUll0cFdzZ09VaFFzcUVlTUxWdmtjUU8rZE1nMXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxMDc4NzM4CWZpbGU6SW50ZWxsaUNoYXQuYXBwLnRhci5negpBVUpLVitZZEJ3eXpJYUtjY25oWURmUGN0a0xBTWJJYXI2cStGaVh5WWhXZithNXZzeTZqZHplM3pWR0NWeEdOb2VUV2xpcldtckxLemZqVTdaQzlCQT09Cg==",
       "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.6/IntelliChat-macos-x64.tar.gz"
     },
     "darwin-aarch64": {
