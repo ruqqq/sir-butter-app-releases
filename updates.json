@@ -1,19 +1,19 @@
 {
-  "version": "0.0.6",
-  "notes": "Pre-release",
-  "pub_date": "2023-04-09T14:30:00Z",
+  "version": "0.0.8",
+  "notes": "Stabilize browser tool (mac-only). Fix links not opening in browser. Fix app icons.",
+  "pub_date": "2023-04-13T22:44:00Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbWlCUjk2WkFXTXVZU2t3N2xsT0NFQlB0VUs4aHFKNDFZSGxlR0VZblQwWkp3UDRvN0VZYzJZU2xxUll0cFdzZ09VaFFzcUVlTUxWdmtjUU8rZE1nMXc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxMDc4NzM4CWZpbGU6SW50ZWxsaUNoYXQuYXBwLnRhci5negpBVUpLVitZZEJ3eXpJYUtjY25oWURmUGN0a0xBTWJJYXI2cStGaVh5WWhXZithNXZzeTZqZHplM3pWR0NWeEdOb2VUV2xpcldtckxLemZqVTdaQzlCQT09Cg==",
-      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.6/IntelliChat-macos-x64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbW80NnhMcjFJbnRGK0c5RncyNGlHcDdlTjJueGdVRWpqM2VueDdNV0xoQ2Q4Q0VFVnVUQXplVmVBRlFlelJjS3N2Vm5mOVVzRGxQRkU1MmxSU1RlTHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxMzk1ODQ1CWZpbGU6SW50ZWxsaUNoYXQuYXBwLnRhci5negpUSzhudFhlcWY4Y2RTOUZuK1VsZDBHUzgrR3JSRWk3QlU4aGcrS2R3dm1sVjZaZGk0WXdxVTliYmRKN1R1YjRhV0VzWTFuWm81b0ZudjJHcjFULzJCdz09Cg==",
+      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.8/IntelliChat-macos_x64.app.update.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbW9CK0UyZlBWaCt0UnZMZnNlWEQwT2RCQUphWjB4Si9GL3U0NUxzVlpnbG4rZUJXMkpnVFBnb3ZkVlZsZkwyWUs1VksvSks0U2J0YUFoOGdBNEF6M2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxMDQ5NzY0CWZpbGU6SW50ZWxsaUNoYXQuYXBwLnRhci5negpYbkVCc2pqSjRLYW0xSmJzcWs3WUJvTGN6RWJhUDM0YWNyUk9QcXMzTVJpekZPVVk1OG1EZFFRRjdQaHYxTDVkS1VBK2VIZWpza3lNSzVJWkFERktCdz09Cg==",
-      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.6/IntelliChat-macos-arm64.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbWpQVEh6dzRibThkNXVVbkVZRkVHZi80TWpvWGlVbTFpbGEyUHpINUN1NXBkWE12bzB0V0VGQnEyZUdrUHBEbTZZZzNXMzlBczhWdUZ2enN4djBFeHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxMzk1Nzg2CWZpbGU6SW50ZWxsaUNoYXQuYXBwLnRhci5nego2QXB4SFgzRTdsdjlwMkFGTTdSbnp3TSsvTlRtS29ralFKUTlmS2xuVHd2LzBGN1lJY3dESWRRYWdvNHhrVWVxaHJXdi8vY0RROExyTWczWlpmQUxCZz09Cg==",
+      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.8/IntelliChat-macos-aarch64.app.update.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbWxxZTUxTDBGR2Q5NTN5NEtZTElxckE2cWtWZStCVllMam9Db3I4U3BXM0tKeENGVVRZWjJCcWl2dFZZQk5iMkx1OTRBdGsrdk41eXp5RDdLdDh5bFEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxMDUwMzIwCWZpbGU6SW50ZWxsaUNoYXRfMC4wLjZfeDY0X2VuLVVTLm1zaS56aXAKMU1qa3NHWm5TMFNUNENOS3ByTmoxRkpZZVAyTTRYVTUwdGhyektxSTYxcCtIN21vMHpMTytvYjNFTDNNTVBIcm9kcWpMV1FRWmtsUm40ZDJVdFlUQXc9PQo=",
-      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.6/IntelliChat_0.0.6_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWkc4b3c3V2VBbXJkekJoL0t0UTNmYmF4SjJDWnN4bDFudjRZenhMYkU1Zm5wNWc2Q3YwdXZBcVpiUzNlWElXeTZJZnRjRTJ5cmsyNkJuMGorTDFzdS9VaCtweDVRMFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxMzk2NDI1CWZpbGU6SW50ZWxsaUNoYXRfMC4wLjhfeDY0X2VuLVVTLm1zaS56aXAKZUJBUWxCTTIzR2pkS3Fza0JJeHpzbTZ6OEwwSXlTcm9EQzRmS1BPblhQbjFvNm9yQ0pqY2JuMVdTT08rSFZmNTNLTXJlendZcmVxdTdUUmtBMng4RGc9PQo=",
+      "url": "https://github.com/ruqqq/sir-butter-app-releases/releases/download/v0.0.8/IntelliChat_0.0.8_x64_en-US.msi.update.zip"
     }
   }
 }
